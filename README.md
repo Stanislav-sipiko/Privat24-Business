@@ -1,3 +1,5 @@
 # Privat24-Business
 Privat24 Business
-Ckass? Base Request
+Class B24 for OOO and FOP
+1) Base auth
+2) Get payments
